@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Śmiecioodpowiedzialni - Ekologiczne Artykuły</title>
+    <link>https://smiecioodpowiedzialni.pl/</link>
+    <description>RSS feed z ekologicznych wpisów ze strony Śmiecioodpowiedzialni.pl</description>
+    <language>pl</language>
+    <lastBuildDate>Thu, 16 Oct 2025 12:00:00 +0000</lastBuildDate>
+
+    <item>
+      <title>Zero waste w polskiej kuchni</title>
+      <link>https://smiecioodpowiedzialni.pl/zero-waste-w-polskiej-kuchni.html</link>
+      <description>Jak gotować bez marnowania — zero waste w polskiej kuchni.</description>
+      <pubDate>Thu, 16 Oct 2025 10:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Ekologiczne Święta</title>
+      <link>https://smiecioodpowiedzialni.pl/ekologiczne-swieta.html</link>
+      <description>Przewodnik po ekologicznych świętach — mniej odpadów, więcej znaczenia.</description>
+      <pubDate>Thu, 16 Oct 2025 09:50:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Recykling w praktyce</title>
+      <link>https://smiecioodpowiedzialni.pl/recykling-w-praktyce.html</link>
+      <description>Jak naprawdę działa recykling w Polsce? Sprawdź praktyczne porady.</description>
+      <pubDate>Thu, 16 Oct 2025 09:40:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Eko-wyzwanie: miesiąc bez plastiku</title>
+      <link>https://smiecioodpowiedzialni.pl/eko-wyzwanie-miesiac-bez-plastiku.html</link>
+      <description>Spróbuj życia bez plastiku przez 30 dni — wyzwanie i inspiracje.</description>
+      <pubDate>Thu, 16 Oct 2025 09:30:00 +0000</pubDate>
+    </item>
+
+  </channel>
+</rss>
